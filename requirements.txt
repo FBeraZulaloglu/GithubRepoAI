@@ -1,0 +1,6 @@
+llama-index 
+deeplake 
+openai 
+python-dotenv 
+llama-hub
+streamlit
